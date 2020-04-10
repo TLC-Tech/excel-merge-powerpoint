@@ -7,7 +7,7 @@
 * The background of the slides is light grey to avoid eye strain from a white background.
 * The PowerPoint project is NOT saved automatically, it's up to the User to save the ppt after its generated.
 ## How to Install
-1. Add `excel-merge-powerpoint.xla` to `C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\AddIns\`.
+1. Add `excel-merge-powerpoint.xlam` to `C:\Users\YOUR_USERNAME\AppData\Roaming\Microsoft\AddIns\`.
 2. Open Excel and start a new workbook
 3. File > Options > Add Ins > Go
 4. Check `Excel Merge Powerpoint` and press OK
